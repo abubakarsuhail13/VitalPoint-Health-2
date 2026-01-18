@@ -1,0 +1,8 @@
+{
+  "name": "VitalPoint Health",
+  "description": "A modern, animated healthcare platform featuring an AI-driven health assistant and wellness tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
