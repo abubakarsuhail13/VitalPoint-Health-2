@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion, useScroll, useSpring } from 'framer-motion';
 import Navbar from './components/Navbar';
@@ -91,7 +90,7 @@ const BentoSection: React.FC = () => {
             className="text-4xl lg:text-6xl font-black text-slate-900 mb-6 tracking-tight"
           >
             Intelligence at every <span className="text-gradient">VitalPoint.</span>
-          </h2 >
+          </motion.h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 h-auto lg:h-[600px]">
